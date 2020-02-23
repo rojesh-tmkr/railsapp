@@ -9,6 +9,10 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 gem 'sqlite3'
 
 gem 'carrierwave'
+gem 'mini_magick'
+
+gem 'devise'
+gem 'gravtastic'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
